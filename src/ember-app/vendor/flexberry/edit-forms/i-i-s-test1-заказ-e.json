@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Контрагент",
+      "projection": "КонтрагентL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудник",
+      "projection": "СотрудникL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Заказ",
+  "name": "IISTest1ЗаказE",
+  "className": "ЗаказE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test1-заказ",
+      "modelProjection": "ЗаказE"
+    }
+  ]
+}
